@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{84D5F13E-1C34-4B8E-BE41-2E2B5654625C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmComparisonTests", "Data\OrmComparisonTests\OrmComparisonTests.csproj", "{F6E0EAEC-64E0-4A7B-8268-9C376705B95E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F6E0EAEC-64E0-4A7B-8268-9C376705B95E} = {84D5F13E-1C34-4B8E-BE41-2E2B5654625C}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6E0EAEC-64E0-4A7B-8268-9C376705B95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E0EAEC-64E0-4A7B-8268-9C376705B95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E0EAEC-64E0-4A7B-8268-9C376705B95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E0EAEC-64E0-4A7B-8268-9C376705B95E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
